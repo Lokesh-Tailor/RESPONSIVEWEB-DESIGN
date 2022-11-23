@@ -1,0 +1,200 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: orange;
+   
+    text-transform: uppercase;
+}
+header h1{
+    color: white;
+    font-size: 40px;
+    padding: 20px;
+}
+header span{
+    color: black;
+}
+header ul{
+    display: flex;
+    list-style: none;
+    text-decoration: none;
+    padding: 3px;
+    font-size: 30px;
+}
+header ul li{ padding : 20px 40px; 
+border-left: 1px solid;}
+header ul li a{
+    padding: 14px 24px ;
+    font: size 60px; 
+
+    flex-direction: column;
+    display: flex;
+    padding: s30px;
+    
+}
+.mainwork{
+    display: flex;
+    background: url(3108.jpg.webp) no-repeat  scroll center / cover;
+    height: 500px;
+}
+.space{
+    background-color: orange;
+    height: 900px;
+
+}
+.pens{
+    display: flex;
+}
+.pen{
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    border: 3px solid;
+    margin: 20px;
+    font-size: 32px;
+    position: relative;
+    bottom: 150px;
+    padding: 70px 20px 20px 20px ;
+    border-radius: 8px;
+    background-color: aliceblue;
+}
+.pen .icon i{
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+    background-color: orangered;
+    align-items: center;
+    color: white;
+    border: 2px solid;
+    width: 7.5rem;
+    height: 7.5rem;
+    border-radius: 50%;
+    position: absolute;
+    left: 40%;
+    top: -50px;
+}
+
+.part{
+    display: flex;
+    align-items: center;
+}
+.left{
+    padding-left: 80px;
+    font-size: 32px;
+    padding: 30px;
+    margin: 20px;
+}
+.left p{
+    padding: 32px;
+    border-left:2px solid
+    ;
+}
+.one li{
+    font-size: 32px;
+    border: 8px solid white;
+    padding: 20px;
+    margin: 20px;
+text-align: center;
+background-color: white;
+border-right: 5px;
+
+}
+section{
+    text-align: center;
+
+}
+
+.css h1{
+    color: white;
+    padding: 20px;
+    background-color: aquamarine;
+    background-image: url(/3108.jpg.webp);
+    font-size: 64px;
+    }
+    .css p{
+    padding-left: 250px;
+    text-align: justify;
+    padding: 10px 10px 10px 500px;
+    align-items: right;
+    font-size: 32px;
+    
+    }
+     .css {
+    position: relative;
+    
+    }
+.css i{
+        position: absolute;
+        left: 7%;
+        bottom: 140px;
+        font-size: 70px;
+        background-color: orangered;
+        color: white;
+        padding: 10px;
+        border-radius: 10px
+    }
+    .js h1{
+        color: white;
+        padding: 20px;
+        background-color: aquamarine;
+        background-image: url(/3108.jpg.webp);
+        font-size: 64px;
+        }
+        .js p{
+        padding-left: 250px;
+        text-align: justify;
+        padding: 10px 500px 10px 10px;
+        align-items: right;
+        font-size: 32px;
+        
+        }
+        .js {
+        position: relative;
+        
+        }
+        .js i{
+            position: absolute;
+            right: 7%;
+            bottom: 140px;
+            font-size: 70px;
+            background-color: orangered;
+            color: white;
+            padding: 10px;
+            border-radius: 10px
+        }
+ 
+        
+        .bootstrap h1{
+            color: white;
+            padding: 20px;
+            background-color: aquamarine;
+            background-image: url(/3108.jpg.webp);
+            font-size: 64px;
+            }
+            .bootstrap p{
+            padding-left: 250px;
+            text-align: justify;
+            padding: 10px 10px 10px 500px;
+            align-items: right;
+            font-size: 32px;
+            
+            }
+            .bootstrap{
+            position: relative;
+            
+            }
+            .bootstrap i{
+                position: absolute;
+                left: 7%;
+                bottom: 140px;
+                font-size: 70px;
+                background-color: orangered;
+                color: white;
+                padding: 10px;
+                border-radius: 10px
+            }
+            
